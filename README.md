@@ -70,7 +70,7 @@ The traffic information, which identifies several IP addresses, is available in 
 
 🛡️​​ Recommendations as a Cybersecurity Professional:
 1) Containment
-- Preserve evidence. (example: .pcap files)
+- Preserve evidence. (example: .pcap files and downloaded files)
 - Isolate the infected host.
 - Block communication with the malicious IPs.
 
